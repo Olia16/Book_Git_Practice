@@ -15,4 +15,7 @@ adding more text:
 
 Sprint planning is an event in scrum that defines what can be delivered in the upcoming sprint and how that work will be achieved.
 
+Some more text bellow:
+
+hello this is my last practice for today
 
