@@ -1,5 +1,5 @@
 
-page 5 of chapter_1
+page 5 of chapter-1
 AGILE
 
 Your company is going Agile. Now everyone talks about frequent and iterative deployments. If you’re a tester or QA person, that can scare you about what your world will look like. Will you be expected to test a codebase that changes daily with no breaks or time to breathe? Alternatively, you’ve heard that some teams do away with QA and testers once they go agile. How will you survive? What is QA’s role in agile?
