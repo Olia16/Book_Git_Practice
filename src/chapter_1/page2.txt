@@ -1,0 +1,10 @@
+this is page2 of our Chapter_1, second file
+
+we enabled our git
+
+What is commit?
+
+- updating/making changes to local repository
+- shortcut - Ctrl+k
+- commit message - comment to describe what have been changed
+

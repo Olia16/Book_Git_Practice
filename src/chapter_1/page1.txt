@@ -1,0 +1,19 @@
+Hello, this is my first text file with Git.
+
+Hello world
+
+Git is a version control system/tool/software
+Repository - is a folder that keeps track of changes
+
+   Local repo vs remote repo
+Local repo - is on your computer - hidden git folder
+Remote repo - is in [Github.com(http:/github.com)]
+
+- for every project we have separate repository
+
+flow:
+Create new project
+Create a new package called chapter_1
+Create a new text file called page1
+
+
