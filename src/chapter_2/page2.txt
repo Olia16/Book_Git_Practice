@@ -1,0 +1,5 @@
+Chapter 2, page 2
+
+Unlike in sport, scrum encourages you to be always sprinting,
+so you can deliver working software,
+while continuously learning and improving.
