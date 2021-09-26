@@ -1,0 +1,6 @@
+   Git vs Github
+
+   Git - VCS - version control system, tool, software
+   Github - is an online platform, project folder
+
+   Any new code/changes made in Git can be shared/sent to Github
