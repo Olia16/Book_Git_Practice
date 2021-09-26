@@ -8,3 +8,11 @@ What is commit?
 - shortcut - Ctrl+k
 - commit message - comment to describe what have been changed
 
+task:
+edit chapter_1 page2
+
+adding more text:
+
+Sprint planning is an event in scrum that defines what can be delivered in the upcoming sprint and how that work will be achieved.
+
+
