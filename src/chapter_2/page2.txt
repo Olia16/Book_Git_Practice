@@ -3,3 +3,7 @@ Chapter 2, page 2
 Unlike in sport, scrum encourages you to be always sprinting,
 so you can deliver working software,
 while continuously learning and improving.
+
+adding some text to chapter 2, page2
+
+this is last practice for today
